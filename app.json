@@ -1,0 +1,8 @@
+{
+    "name": "Adyen Sample Interview",
+    "description": "A barebones app template",
+    "repository": "https://github.com/tddouglas/Adyen_Interview_Boilerplate",
+    "logo": "https://www.adyen.com/.resources/adyen-website/themes/images/android-icon-192x192.png",
+    "keywords": ["Adyen", "Interview"]
+  }
+  
