@@ -1,2 +1,12 @@
+<script src="https://checkoutshopper-test.adyen.com/checkoutshopper/sdk/3.22.2/adyen.js"></script>
+<link rel="stylesheet" href="https://checkoutshopper-test.adyen.com/checkoutshopper/sdk/3.22.2/adyen.css">
+
 <h1>{{title}}</h1>
 <p>Welcome to {{title}}</p>
+
+<div id="clientKey" class="hidden">{{ clientKey }}</div>
+<div id="type" class="hidden">{{ type }}</div>
+
+<div id="{{type}}"></div>
+
+<script src="javascripts/adyenImplementation.js"></script>
